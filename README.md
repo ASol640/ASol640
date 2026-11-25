@@ -1,5 +1,3 @@
-👨‍💻 Portfólio — Desenvolvedor em Formação
-
 Sou estudante do 2º ano do curso de Informática na ETEC de Santa Isabel, apaixonado por tecnologia e desenvolvimento de software.
 
 Estou desenvolvendo minhas habilidades em programação e buscando sempre aprender novas tecnologias, criar projetos e aprimorar meus conhecimentos.
