@@ -1,16 +1,32 @@
-## Hi there 👋
+👨‍💻 Portfólio — Desenvolvedor em Formação
 
-<!--
-**ASol640/ASol640** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante do 2º ano do curso de Informática na ETEC de Santa Isabel, apaixonado por tecnologia e desenvolvimento de software.
 
-Here are some ideas to get you started:
+Estou desenvolvendo minhas habilidades em programação e buscando sempre aprender novas tecnologias, criar projetos e aprimorar meus conhecimentos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Sobre mim
+
+- 🎓 Estudante de Informática na ETEC de Santa Isabel
+- 💻 Conhecimentos em C, HTML, PHP e JavaScript
+- 🗄️ Conhecimentos em Banco de Dados
+- 📜 Certificado pela Alura
+- 📚 Sempre aprendendo e desenvolvendo novos projetos
+
+🛠️ Tecnologias e conhecimentos
+
+| Tecnologia | Conhecimento |
+|---|---|
+| C | Lógica de programação |
+| HTML | Estruturação de páginas web |
+| PHP | Desenvolvimento web |
+| JavaScript | Interatividade e funcionalidades web |
+| Banco de Dados | Modelagem e consultas |
+
+🎓 Formação
+**ETEC de Santa Isabel**
+
+Curso: Informática  
+Período: 2º ano
+
+📜 Certificados
+- Certificado de conclusão de curso pela Alura
