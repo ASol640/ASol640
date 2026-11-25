@@ -27,4 +27,4 @@ Curso: Informática
 Período: 2º ano
 
 📜 Certificados
-- Certificado de conclusão de curso pela Alura
+- Certificado de conclusão de logica de progrmação pelo scratch na Alura
